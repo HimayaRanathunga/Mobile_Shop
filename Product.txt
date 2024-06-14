@@ -1,0 +1,14 @@
+
+1,14,365000,15,iPhone
+2,Watch 01,100000,100,Apple Watch
+3,iPad 12,120000,10,iPad
+4,12 Pro,39000,15,AirPods
+5,Mac Air 15'' ,230000,12,Mac
+6,Charger 01,12000,10,Other
+7,Earphone,30000,10,Other
+8,Power Bank,30000,50,Other
+9,12 Pro Max,300000,30,iPhone
+10,11 Pro Max,200000,20,iPhone
+12,Watch 02,34000,20,Apple Watch
+13,Mac  Air 12'',200000,30,Mac
+11,11 Pro,200000,10,iPhone
